@@ -1,11 +1,11 @@
 
 # Spanish Conjunctions
 
-To start, go to [The Spanish Conjuction Page](https://leodog896.github.io/SpanishConjuctions)
+To start, go to [The Spanish Conjuction Page](https://leodog896.github.io/SpanishConjunctions)
 
 ToDo:
 
- 1. "Conjuctions" is spelled wrong. ToDo
+ 1. ~~"Conjuctions" is spelled wrong.~~
  2. ~~Add functionality to the `Grade` button.~~
  3. Add the Vosostras form
  4. Make functionality to the A`dd Accent` Button
