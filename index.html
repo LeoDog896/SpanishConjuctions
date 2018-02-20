@@ -45,7 +45,7 @@ $('#start').click(function(){
   $('#word').html(words[Math.floor(Math.random() * words.length)])
 });
 $('#grade').click(function(){
-  
+  alert('Your Score:\n' + corr/(corr+incor) + '%')
 });
 function createNew(){
   $('#person').html(randomPersonPhrase);
