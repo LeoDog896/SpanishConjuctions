@@ -4,7 +4,7 @@ names = ["Aaran", "Aaren", "Aarez", "Aarman", "Aaron", "Aaron-James", "Aarron", 
 words = ['Hablar','Bailar','Comer','Beber']
 $(document).keypress(function(e) {
   if(e.which == 13){
-    check() 
+    check();
   }
 });
 $('#submit').click(function(){
@@ -125,6 +125,6 @@ function check(){
       createNew();
       $('#inp').val('')
     }
-  pi.data.datasets[0].data = [incor,corr,unf]; //In,C,U
+  pi.data.datasets[0].data = [incor,corr,unf];
   pi.update();
 }
