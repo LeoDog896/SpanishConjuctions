@@ -127,4 +127,5 @@ function check(){
     }
   pi.data.datasets[0].data = [incor,corr,unf];
   pi.update();
+  $('#word').html(words[Math.floor(Math.random() * words.length)])
 }
